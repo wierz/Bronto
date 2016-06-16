@@ -4,3 +4,4 @@
 echo "This is a test line of text"
 
 echo "And another thing - this is a mod on top of a pull request"
+echo "And finally - another one"
